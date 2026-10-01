@@ -1,0 +1,15 @@
+# Exécutables compilés
+client
+serveur
+*.o
+*.out
+
+# Résultats générés à l'exécution du serveur
+resultats_final.txt
+
+# IDE / éditeurs
+.idea/
+.vscode/
+
+# Système
+.DS_Store
